@@ -26,6 +26,7 @@ class ChangeLog
   def name
   def file
   def description
+  def relative
 
   ChangeLog(String name) {
     this.name = name
